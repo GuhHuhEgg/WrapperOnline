@@ -93,8 +93,7 @@ function loadBonzis(a) {
         { id: "bonziPurple", src: "./img/bonzi/purple.png" },
         { id: "bonziRed", src: "./img/bonzi/red.png" },
         { id: "bonziPink", src: "./img/bonzi/pink.png" },
-        { id: "bonziJew", src: "./img/bonzi/jew.png" },
-        { id: "bonziAllah", src: "./img/bonzi/allah.png" },
+        { id: "bonziOrange", src: "./img/bonzi/pope.png" },
         { id: "topjej", src: "./img/misc/topjej.png" },
     ]),
         loadQueue.on(
